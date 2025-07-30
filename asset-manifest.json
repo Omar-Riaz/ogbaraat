@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ogwalima/static/css/main.79e8b1fd.css",
+    "main.js": "/ogwalima/static/js/main.72b2a4e7.js",
+    "static/js/453.0e2123bc.chunk.js": "/ogwalima/static/js/453.0e2123bc.chunk.js",
+    "index.html": "/ogwalima/index.html",
+    "main.79e8b1fd.css.map": "/ogwalima/static/css/main.79e8b1fd.css.map",
+    "main.72b2a4e7.js.map": "/ogwalima/static/js/main.72b2a4e7.js.map",
+    "453.0e2123bc.chunk.js.map": "/ogwalima/static/js/453.0e2123bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79e8b1fd.css",
+    "static/js/main.72b2a4e7.js"
+  ]
+}
